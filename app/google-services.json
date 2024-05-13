@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "868770555205",
+    "project_id": "akram-8947e",
+    "storage_bucket": "akram-8947e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868770555205:android:2192af1554d65d5b46ca2c",
+        "android_client_info": {
+          "package_name": "com.example.sourcenet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgDLxcv2nXPFJdpAl3ldfM8-EbWk8LB9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
