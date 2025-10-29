@@ -4,7 +4,6 @@ import android.content.Context
 import android.widget.Toast
 import androidx.lifecycle.ViewModel
 import com.example.sourcenet.models.Applicant
-import com.example.sourcenet.navigation.ROUT_TEST
 import com.google.firebase.Firebase
 import com.google.firebase.firestore.firestore
 import kotlinx.coroutines.CoroutineScope
